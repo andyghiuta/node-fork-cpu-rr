@@ -1,0 +1,11 @@
+{
+  "name": "node-fork-cpu-rr",
+  "version": "1.0.0",
+  "description": "Node fork for nr of CPUs, round robin send data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Ghiuta <andy.ghiuta@gmail.com>",
+  "license": "MIT"
+}
